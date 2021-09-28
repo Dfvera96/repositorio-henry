@@ -1,0 +1,20 @@
+body{
+
+    background: red;
+}
+
+.titulo{
+
+    background: black;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px   blue;
+}
+
+#parrafo{
+
+    border-radius: 5px;
+    color: white;
+}
